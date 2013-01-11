@@ -1,8 +1,8 @@
 ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
 
-PUBLICATION NAME: Mobile_Site_Template.indd
+PUBLICATION NAME: Tablet_Site_Template.indd
 
-PACKAGE DATE: 1/11/13 12:59 PM
+PACKAGE DATE: 1/11/13 1:45 PM
 Creation Date: 1/11/13
 Modification Date: 1/11/13
 
@@ -28,17 +28,16 @@ SPECIAL INSTRUCTIONS AND OTHER NOTES
 
 
 External Plug-ins 0
-Non Opaque Objects :None
+Non Opaque Objects :On Page, B
 
 FONTS
-5 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+4 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
 
 Fonts Packaged
 - Name: Gotham-Bold; Type: Type 1, Status: OK
 - Name: Gotham-BookItalic; Type: Type 1, Status: OK
 - Name: Gotham-Light; Type: Type 1, Status: OK
 - Name: Gotham-LightItalic; Type: Type 1, Status: OK
-- Name: MinionPro-Regular; Type: OpenType Type 1, Status: OK
 
 
 COLORS AND INKS
@@ -52,10 +51,9 @@ COLORS AND INKS
 
 LINKS AND IMAGES
 (Missing & Embedded Links Only)
-Links and Images: 0 Links Found; 0 Modified, 0 Missing 0 Inaccessible
-Images: 4 Embedded, 0 use RGB color space
+Links and Images: 1 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 3 Embedded, 1 use RGB color space
 
-- Name: (Embedded); Type:  CMYK; Status: Embedded
 - Name: (Embedded); Type:  CMYK; Status: Embedded
 - Name: (Embedded); Type:  CMYK; Status: Embedded
 - Name: (Embedded); Type:  CMYK; Status: Embedded
@@ -87,7 +85,7 @@ Flip Mode: Off
 
 FILE PACKAGE LIST
 
-1. Mobile_Site_Template.indd; type: Adobe InDesign publication; size: 2796K
+1. Tablet_Site_Template.indd; type: Adobe InDesign publication; size: 2116K
 2. GothaBol; type: Font file; size: 34K
 3. Gotham Bold; type: Font file; size: 34K
 4. GothaBooIta; type: Font file; size: 34K
@@ -95,4 +93,3 @@ FILE PACKAGE LIST
 6. GothaLig; type: Font file; size: 34K
 7. GothaLigIta; type: Font file; size: 34K
 8. Gotham Medium; type: Font file; size: 34K
-9. MinionPro-Regular.otf; type: Font file; size: 212K
