@@ -135,6 +135,28 @@ FileModTime:1316006401
 
 %BeginFont
 Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-Medium
+OutlineFileName:\Gotham Medium
+ResourceID:4160
+MacStyle:0
+FileLength:34836
+FileModTime:1316006401
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-MediumItalic
+OutlineFileName:\Gotham Medium
+ResourceID:4160
+MacStyle:2
+FileLength:34836
+FileModTime:1316006401
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
 FontType:Type1
 FontName:MinionPro-Regular
 FamilyName:Minion Pro
@@ -151,7 +173,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:217280
-FileModTime:1342693237
+FileModTime:1357904117
 DesignSize:110
 %EndFont
 
