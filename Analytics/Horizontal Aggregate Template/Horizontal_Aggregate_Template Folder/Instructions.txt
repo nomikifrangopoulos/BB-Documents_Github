@@ -2,9 +2,9 @@ ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
 
 PUBLICATION NAME: Horizontal_Aggregate_Template.indd
 
-PACKAGE DATE: 1/10/13 4:29 PM
-Creation Date: 1/10/13
-Modification Date: 1/10/13
+PACKAGE DATE: 1/11/13 11:46 AM
+Creation Date: 1/11/13
+Modification Date: 1/11/13
 
 CONTACT INFORMATION
 
@@ -31,7 +31,7 @@ External Plug-ins 0
 Non Opaque Objects :On Page7
 
 FONTS
-5 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+6 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
 
 Fonts Packaged
 - Name: Gotham-Bold; Type: Type 1, Status: OK
@@ -39,6 +39,7 @@ Fonts Packaged
 - Name: Gotham-BookItalic; Type: Type 1, Status: OK
 - Name: Gotham-Light; Type: Type 1, Status: OK
 - Name: Gotham-Medium; Type: Type 1, Status: OK
+- Name: MinionPro-Regular; Type: OpenType Type 1, Status: OK
 
 
 COLORS AND INKS
@@ -52,17 +53,12 @@ COLORS AND INKS
 
 LINKS AND IMAGES
 (Missing & Embedded Links Only)
-Links and Images: 7 Links Found; 0 Modified, 6 Missing 0 Inaccessible
-Images: 2 Embedded, 1 use RGB color space
+Links and Images: 0 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 9 Embedded, 1 use RGB color space
 
 - Name: (Embedded); Type:  CMYK; Status: Embedded
 - Name: (Embedded); Type:  CMYK; Status: Embedded
-- Name: 18.ai; Type: Adobe Portable Document Format (PDF); Status: Missing
-- Name: 2.ai; Type: Adobe Portable Document Format (PDF); Status: Missing
-- Name: 2.ai; Type: Adobe Portable Document Format (PDF); Status: Missing
-- Name: 4.ai; Type: Adobe Portable Document Format (PDF); Status: Missing
-- Name: 4.ai; Type: Adobe Portable Document Format (PDF); Status: Missing
-- Name: graph.psd; Type: Photoshop RGB; Status: Missing
+- Name: (Embedded); Type:  RGB; Status: Embedded
 
 PRINT SETTINGS
 PPD: Device Independent, (PostScript® File)
@@ -91,7 +87,7 @@ Flip Mode: Off
 
 FILE PACKAGE LIST
 
-1. Horizontal_Aggregate_Template.indd; type: Adobe InDesign publication; size: 2556K
+1. Horizontal_Aggregate_Template.indd; type: Adobe InDesign publication; size: 7180K
 2. GothaBol; type: Font file; size: 34K
 3. Gotham Bold; type: Font file; size: 34K
 4. GothaBoo; type: Font file; size: 34K
@@ -101,3 +97,4 @@ FILE PACKAGE LIST
 8. GothaLig; type: Font file; size: 34K
 9. GothaMed; type: Font file; size: 34K
 10. Gotham Medium; type: Font file; size: 34K
+11. MinionPro-Regular.otf; type: Font file; size: 212K
