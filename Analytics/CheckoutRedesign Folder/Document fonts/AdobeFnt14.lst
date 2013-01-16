@@ -5,56 +5,56 @@
 Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:\GothaBla
-FileModTime:1358171796
+FileModTime:1358350375
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:\GothaBol
-FileModTime:1358171796
+FileModTime:1358350375
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:\GothaBoo
-FileModTime:1358171796
+FileModTime:1358350375
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:\GothaBooIta
-FileModTime:1358171796
+FileModTime:1358350375
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:\Gotham Black
-FileModTime:1358171796
+FileModTime:1358350375
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:\Gotham Bold
-FileModTime:1358171796
+FileModTime:1358350375
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:\Gotham Book
-FileModTime:1358171796
+FileModTime:1358350375
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:\Gotham Light
-FileModTime:1358171796
+FileModTime:1358350375
 %EndFont
 
 %BeginFont
@@ -74,7 +74,7 @@ OutlineFileName:\Helvetica.dfont
 DataFormat:sfntResource
 ResourceID:25595
 FileLength:2919210
-FileModTime:1358171796
+FileModTime:1358350375
 %EndFont
 
 %BeginFont
@@ -94,7 +94,7 @@ OutlineFileName:\Helvetica.dfont
 DataFormat:sfntResource
 ResourceID:28517
 FileLength:2919210
-FileModTime:1358171796
+FileModTime:1358350375
 %EndFont
 
 %BeginFont
@@ -114,7 +114,7 @@ OutlineFileName:\Helvetica.dfont
 DataFormat:sfntResource
 ResourceID:22365
 FileLength:2919210
-FileModTime:1358171796
+FileModTime:1358350375
 %EndFont
 
 %BeginFont
@@ -134,7 +134,7 @@ OutlineFileName:\Helvetica.dfont
 DataFormat:sfntResource
 ResourceID:6413
 FileLength:2919210
-FileModTime:1358171796
+FileModTime:1358350375
 %EndFont
 
 %BeginFont
@@ -154,7 +154,7 @@ OutlineFileName:\Helvetica.dfont
 DataFormat:sfntResource
 ResourceID:22375
 FileLength:2919210
-FileModTime:1358171796
+FileModTime:1358350375
 %EndFont
 
 %BeginFont
@@ -174,7 +174,7 @@ OutlineFileName:\Helvetica.dfont
 DataFormat:sfntResource
 ResourceID:6513
 FileLength:2919210
-FileModTime:1358171796
+FileModTime:1358350375
 %EndFont
 
 %BeginFont
@@ -185,7 +185,7 @@ OutlineFileName:\Helvetica.dfont
 ResourceID:21
 MacStyle:0
 FileLength:2919210
-FileModTime:1358171796
+FileModTime:1358350375
 %EndFont
 
 %BeginFont
@@ -196,7 +196,7 @@ OutlineFileName:\Helvetica.dfont
 ResourceID:21
 MacStyle:1
 FileLength:2919210
-FileModTime:1358171796
+FileModTime:1358350375
 %EndFont
 
 %BeginFont
@@ -207,7 +207,7 @@ OutlineFileName:\Helvetica.dfont
 ResourceID:21
 MacStyle:2
 FileLength:2919210
-FileModTime:1358171796
+FileModTime:1358350375
 %EndFont
 
 %BeginFont
@@ -218,7 +218,7 @@ OutlineFileName:\Helvetica.dfont
 ResourceID:21
 MacStyle:3
 FileLength:2919210
-FileModTime:1358171796
+FileModTime:1358350375
 %EndFont
 
 %BeginFont
@@ -229,7 +229,7 @@ OutlineFileName:\Helvetica.dfont
 ResourceID:211
 MacStyle:0
 FileLength:2919210
-FileModTime:1358171796
+FileModTime:1358350375
 %EndFont
 
 %BeginFont
@@ -240,6 +240,6 @@ OutlineFileName:\Helvetica.dfont
 ResourceID:211
 MacStyle:2
 FileLength:2919210
-FileModTime:1358171796
+FileModTime:1358350375
 %EndFont
 
