@@ -3,178 +3,58 @@
 
 %BeginFont
 Handler:DirectoryHandler
-FontType:Type1
-FontName:Gotham-Black
-FamilyName:Gotham
-StyleName:Black
-MenuName:Gotham
-StyleBits:2
-WeightClass:900
-WidthClass:5
-AngleClass:0
-FullName:Gotham-Black
-WritingScript:Roman
+FontType:Invalid
 OutlineFileName:\GothaBla
-DataFormat:POSTResource
-UsesStandardEncoding:no
-isCFF:no
-FileLength:35358
-FileModTime:1316006402
-DesignSize:-1
+FileModTime:1358171796
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
-FontType:Type1
-FontName:Gotham-Bold
-FamilyName:Gotham
-StyleName:Bold
-MenuName:Gotham
-StyleBits:2
-WeightClass:700
-WidthClass:5
-AngleClass:0
-FullName:Gotham-Bold
-WritingScript:Roman
+FontType:Invalid
 OutlineFileName:\GothaBol
-DataFormat:POSTResource
-UsesStandardEncoding:no
-isCFF:no
-FileLength:35360
-FileModTime:1316006402
-DesignSize:-1
+FileModTime:1358171796
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
-FontType:Type1
-FontName:Gotham-Book
-FamilyName:Gotham
-StyleName:Book
-MenuName:Gotham
-StyleBits:0
-WeightClass:400
-WidthClass:5
-AngleClass:0
-FullName:Gotham-Book
-WritingScript:Roman
+FontType:Invalid
 OutlineFileName:\GothaBoo
-DataFormat:POSTResource
-UsesStandardEncoding:no
-isCFF:no
-FileLength:34921
-FileModTime:1297091050
-DesignSize:-1
+FileModTime:1358171796
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
-FontType:Type1
-FontName:Gotham-BookItalic
-FamilyName:Gotham
-StyleName:BookItalic
-MenuName:Gotham
-StyleBits:1
-WeightClass:400
-WidthClass:5
-AngleClass:1
-FullName:Gotham-BookItalic
-WritingScript:Roman
+FontType:Invalid
 OutlineFileName:\GothaBooIta
-DataFormat:POSTResource
-UsesStandardEncoding:no
-isCFF:no
-FileLength:35615
-FileModTime:1297091050
-DesignSize:-1
+FileModTime:1358171796
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
-FontType:Suitcase
-FontName:Gotham-Black
+FontType:Invalid
 OutlineFileName:\Gotham Black
-ResourceID:4166
-MacStyle:0
-FileLength:37259
-FileModTime:1316006402
+FileModTime:1358171796
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
-FontType:Suitcase
-FontName:Gotham-BlackItalic
-OutlineFileName:\Gotham Black
-ResourceID:4166
-MacStyle:2
-FileLength:37259
-FileModTime:1316006402
-%EndFont
-
-%BeginFont
-Handler:DirectoryHandler
-FontType:Suitcase
-FontName:Gotham-Bold
+FontType:Invalid
 OutlineFileName:\Gotham Bold
-ResourceID:4161
-MacStyle:0
-FileLength:35040
-FileModTime:1316006402
+FileModTime:1358171796
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
-FontType:Suitcase
-FontName:Gotham-BoldItalic
-OutlineFileName:\Gotham Bold
-ResourceID:4161
-MacStyle:2
-FileLength:35040
-FileModTime:1316006402
-%EndFont
-
-%BeginFont
-Handler:DirectoryHandler
-FontType:Suitcase
-FontName:Gotham-Book
+FontType:Invalid
 OutlineFileName:\Gotham Book
-ResourceID:4159
-MacStyle:0
-FileLength:33968
-FileModTime:1297091050
+FileModTime:1358171796
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
-FontType:Suitcase
-FontName:Gotham-BookItalic
-OutlineFileName:\Gotham Book
-ResourceID:4159
-MacStyle:2
-FileLength:33968
-FileModTime:1297091050
-%EndFont
-
-%BeginFont
-Handler:DirectoryHandler
-FontType:Suitcase
-FontName:Gotham-Light
+FontType:Invalid
 OutlineFileName:\Gotham Light
-ResourceID:4158
-MacStyle:0
-FileLength:33150
-FileModTime:1316006401
-%EndFont
-
-%BeginFont
-Handler:DirectoryHandler
-FontType:Suitcase
-FontName:Gotham-LightItalic
-OutlineFileName:\Gotham Light
-ResourceID:4158
-MacStyle:2
-FileLength:33150
-FileModTime:1316006401
+FileModTime:1358171796
 %EndFont
 
 %BeginFont
@@ -194,7 +74,7 @@ OutlineFileName:\Helvetica.dfont
 DataFormat:sfntResource
 ResourceID:25595
 FileLength:2919210
-FileModTime:1329752531
+FileModTime:1358171796
 %EndFont
 
 %BeginFont
@@ -214,7 +94,7 @@ OutlineFileName:\Helvetica.dfont
 DataFormat:sfntResource
 ResourceID:28517
 FileLength:2919210
-FileModTime:1329752531
+FileModTime:1358171796
 %EndFont
 
 %BeginFont
@@ -234,7 +114,7 @@ OutlineFileName:\Helvetica.dfont
 DataFormat:sfntResource
 ResourceID:22365
 FileLength:2919210
-FileModTime:1329752531
+FileModTime:1358171796
 %EndFont
 
 %BeginFont
@@ -254,7 +134,7 @@ OutlineFileName:\Helvetica.dfont
 DataFormat:sfntResource
 ResourceID:6413
 FileLength:2919210
-FileModTime:1329752531
+FileModTime:1358171796
 %EndFont
 
 %BeginFont
@@ -274,7 +154,7 @@ OutlineFileName:\Helvetica.dfont
 DataFormat:sfntResource
 ResourceID:22375
 FileLength:2919210
-FileModTime:1329752531
+FileModTime:1358171796
 %EndFont
 
 %BeginFont
@@ -294,7 +174,7 @@ OutlineFileName:\Helvetica.dfont
 DataFormat:sfntResource
 ResourceID:6513
 FileLength:2919210
-FileModTime:1329752531
+FileModTime:1358171796
 %EndFont
 
 %BeginFont
@@ -305,7 +185,7 @@ OutlineFileName:\Helvetica.dfont
 ResourceID:21
 MacStyle:0
 FileLength:2919210
-FileModTime:1329752531
+FileModTime:1358171796
 %EndFont
 
 %BeginFont
@@ -316,7 +196,7 @@ OutlineFileName:\Helvetica.dfont
 ResourceID:21
 MacStyle:1
 FileLength:2919210
-FileModTime:1329752531
+FileModTime:1358171796
 %EndFont
 
 %BeginFont
@@ -327,7 +207,7 @@ OutlineFileName:\Helvetica.dfont
 ResourceID:21
 MacStyle:2
 FileLength:2919210
-FileModTime:1329752531
+FileModTime:1358171796
 %EndFont
 
 %BeginFont
@@ -338,7 +218,7 @@ OutlineFileName:\Helvetica.dfont
 ResourceID:21
 MacStyle:3
 FileLength:2919210
-FileModTime:1329752531
+FileModTime:1358171796
 %EndFont
 
 %BeginFont
@@ -349,7 +229,7 @@ OutlineFileName:\Helvetica.dfont
 ResourceID:211
 MacStyle:0
 FileLength:2919210
-FileModTime:1329752531
+FileModTime:1358171796
 %EndFont
 
 %BeginFont
@@ -360,6 +240,6 @@ OutlineFileName:\Helvetica.dfont
 ResourceID:211
 MacStyle:2
 FileLength:2919210
-FileModTime:1329752531
+FileModTime:1358171796
 %EndFont
 
