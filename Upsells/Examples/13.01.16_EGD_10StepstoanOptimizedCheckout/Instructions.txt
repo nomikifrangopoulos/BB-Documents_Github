@@ -1,0 +1,109 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: BrandingBrand_CheckoutRedesign.indd
+
+PACKAGE DATE: 1/17/13 12:10 PM
+Creation Date: 1/17/13
+Modification Date: 1/17/13
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :On Page5, 6, 7, 8, 9, 10, 11, B, D
+
+FONTS
+10 Fonts Used; 0 Missing, 3 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Arial-BoldMT; Type: ???, Status: Embedded
+- Name: Arial-ItalicMT; Type: ???, Status: Embedded
+- Name: ArialMT; Type: ???, Status: Embedded
+- Name: Gotham-Bold; Type: Type 1, Status: OK
+- Name: Gotham-BookItalic; Type: Type 1, Status: OK
+- Name: Gotham-Light; Type: Type 1, Status: OK
+- Name: Gotham-LightItalic; Type: Type 1, Status: OK
+- Name: Gotham-Medium; Type: Type 1, Status: OK
+- Name: Gotham-MediumItalic; Type: Type 1, Status: OK
+- Name: MinionPro-Regular; Type: OpenType Type 1, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 75.000; Lines/Inch: 70.000
+- Name and Type: Process Magenta; Angle: 15.000; Lines/Inch: 70.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 70.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 70.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 14 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 7 Embedded, 4 use RGB color space
+
+- Name: (Embedded); Type:  CMYK; Status: Embedded
+- Name: (Embedded); Type:  CMYK; Status: Embedded
+- Name: (Embedded); Type:  CMYK; Status: Embedded
+- Name: (Embedded); Type:  CMYK; Status: Embedded
+- Name: (Embedded); Type:  CMYK; Status: Embedded
+- Name: (Embedded); Type:  CMYK; Status: Embedded
+- Name: (Embedded); Type:  CMYK; Status: Embedded
+
+PRINT SETTINGS
+PPD: HP Color LaserJet CM2320 MFP Series, (HP Color LaserJet CM2320fxi MFP (30D9F6))
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0p0, 0p0, 0p0, 0p0
+Color: Composite CMYK
+Trapping Mode: None
+Send Image Data: All
+OPI/DCS Image Replacement: No
+Page Size: Letter
+Paper Dimensions: 51p0 x 66p0
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. BrandingBrand_CheckoutRedesign.indd; type: Adobe InDesign publication; size: 4644K
+2. GothaBol; type: Font file; size: 34K
+3. Gotham Bold; type: Font file; size: 34K
+4. GothaBooIta; type: Font file; size: 34K
+5. Gotham Light; type: Font file; size: 32K
+6. GothaLig; type: Font file; size: 34K
+7. GothaLigIta; type: Font file; size: 34K
+8. Gotham Medium; type: Font file; size: 34K
+9. GothaMed; type: Font file; size: 34K
+10. GothaMedIta; type: Font file; size: 35K
+11. Gotham Thin; type: Font file; size: 33K
+12. MinionPro-Regular.otf; type: Font file; size: 212K
